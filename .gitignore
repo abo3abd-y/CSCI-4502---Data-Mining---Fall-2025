@@ -3,5 +3,6 @@
 *Tong.pdf
 
 !**/*.tex
+!**/*.png
 !**/*[0-9]pdf
 !.gitignore
